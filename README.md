@@ -58,7 +58,17 @@ This is a modern **Smart Waste Management System** built with **Laravel 12**. Th
     * `npm run dev` (Vite Server)
 
 ## 📸 Screenshots
-*(You can add your screenshots here later)*
+
+### Login
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/50b444e8-8a3c-4c8d-aad0-12e87833aadd" />
+### Register
+<img width="1920" height="912" alt="Image" src="https://github.com/user-attachments/assets/190a99e7-9c56-4483-9adf-7b038ee54435" />
+### Admin Dashboard 
+<img width="1920" height="1228" alt="Image" src="https://github.com/user-attachments/assets/e804c574-5701-4447-955d-4b2ebedfce8b" />
+### Submit request
+<img width="1920" height="1118" alt="Image" src="https://github.com/user-attachments/assets/28188f24-78d3-407a-b8f9-5fd1a5c8103c" />
+### Profile
+<img width="1920" height="1613" alt="Image" src="https://github.com/user-attachments/assets/cc90d995-4f1c-4e6d-8fdb-04d5be729283" />
 
 ## 📄 License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
