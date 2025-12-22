@@ -6,7 +6,7 @@
 ## 🌟 Overview
 This is a modern **Smart Waste Management System** built with **Laravel 12**. The application focuses on optimizing garbage collection routes using Google Maps and providing real-time vehicle tracking for residents and admins.
 
-## 🚀 Key Features
+## 🚀 Key Featurs
 
 * **Real-Time Driver Tracking:** Live tracking of waste collection vehicles using **Laravel Reverb (WebSockets)**. No page refresh is required to see the driver move.
 * **Route Optimization:** Automatically calculates the most fuel-efficient route using **Google Directions API** for pending pickup requests.
