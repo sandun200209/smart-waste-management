@@ -72,3 +72,5 @@ This is a modern **Smart Waste Management System** built with **Laravel 12**. Th
 
 ## 📄 License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Developed by Sandun Bandara
